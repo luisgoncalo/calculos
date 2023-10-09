@@ -15,10 +15,11 @@ namespace Calculos
         public int Somar(int x, int y)
         { 
             return x + y;
-
         }
 
-
-
+        public Subtrair(int x, int y)
+        {
+            return x - y;
+        }
     }
 }

@@ -21,11 +21,13 @@ Neste momento esta aplicação implementa as seguintes operações:
 
 ## Tecnologias utilizadas neste projeto
 
-## Site oficial (Fake)
-
 - Visual Studio
 - C#
 - Git
 - GitHub Desktop
 - Plataforma GitHub
 
+
+## Utilização do Git e GitHub no Replit
+
+ [https://docs.replit.com/category/using-git-on-replit](https://docs.replit.com/category/using-git-on-replit)
